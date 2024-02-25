@@ -1,0 +1,6 @@
+@ATLASWepAPI_HostAddress = http://localhost:5078
+
+GET {{ATLASWepAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
